@@ -1,0 +1,5 @@
+name: CratesPlusPlus
+version: '${version}'
+main: com.temps1101.cratesplusplus.cratesplusplus.CratesPlusPlus
+authors: [ temps1101 ]
+description: Made better
